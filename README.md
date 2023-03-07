@@ -1,4 +1,4 @@
-# Stock prediction - Autoregression, ARIMA, LSTM
+# Stock prediction - Autoregression, ARIMA, LSTM (made in 2021)
 
 *Stock (also capital stock) of a corporation is all of the shares into which ownership of the corporation is divided. In American English, the shares are collectively known as "stock". A single share of the stock represents fractional ownership of the corporation in proportion to the total number of shares.*
 
